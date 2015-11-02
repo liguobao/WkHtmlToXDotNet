@@ -16,7 +16,8 @@ namespace TimmysExampleConsoleApp
 
 			string fullHtml = @"
 <html>
-	<head>
+ <meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"">
+            < head>
 		<style type=""text/css"">
 			h1 { border-bottom: solid 2px #369; }
 		</style>

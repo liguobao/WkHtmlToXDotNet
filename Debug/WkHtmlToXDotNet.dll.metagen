@@ -1,0 +1,17 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly WkHtmlToXDotNet, Version=1.0.*, Culture=固定语言(固定国家/地区): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class WkHtmlToXDotNet.HtmlToXConverter: AutoLayout, AnsiClass, Class, Public
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    ConvertToPdf(String): PrivateScope, Public, Static, HideBySig
+    ConvertToPng(String, Int32, Int32): PrivateScope, Public, Static, HideBySig
+    ConvertToPng(String): PrivateScope, Public, Static, HideBySig
